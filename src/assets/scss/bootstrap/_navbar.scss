@@ -67,8 +67,10 @@
 
   &.navbar-nav-sm {
     .nav-link {
-      padding: 5px;
-      font-size: 0.75rem;
+      @include media-breakpoint-up(md) {
+        padding: 5px;
+        font-size: 0.75rem;
+      }
     }
   }
 

@@ -109,7 +109,7 @@
 
                     <a href="#" class="blank-item">
                       <div class="blank-text">
-                        Find More <br/> Cameras 
+                        Find More <br/> Cameras
                         <div class="text-danger caret-md">&#x279E;</div>
                       </div>
                     </a>
@@ -119,7 +119,7 @@
                   <carousel :items="4" :margin="25">
                     <a href="#" class="blank-item">
                       <div class="blank-text">
-                        Find More <br/> Cameras 
+                        Find More <br/> Cameras
                         <div class="text-danger caret-md">&#x279E;</div>
                       </div>
                     </a>
@@ -145,7 +145,7 @@
                   <carousel :items="4" :margin="25">
                     <a href="#" class="blank-item">
                       <div class="blank-text">
-                        Find More <br/> Cameras 
+                        Find More <br/> Cameras
                         <div class="text-danger caret-md">&#x279E;</div>
                       </div>
                     </a>
@@ -179,7 +179,7 @@
 
                     <a href="#" class="blank-item">
                       <div class="blank-text">
-                        Find More <br/> Cameras 
+                        Find More <br/> Cameras
                         <div class="text-danger caret-md">&#x279E;</div>
                       </div>
                     </a>

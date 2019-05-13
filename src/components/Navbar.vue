@@ -1,5 +1,5 @@
 <template>
-  <b-navbar toggleable="lg" type="dark" variant="dark" class="py-3">
+  <b-navbar toggleable="md" type="dark" variant="dark" class="py-3">
     <div class="container-fluid main">
       <a class="navbar-brand" href="#">
         <img src="../assets/images/logo.png" alt="Fujifilm" class="img-fluid" width="40" height="40">
@@ -8,10 +8,10 @@
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
       <b-collapse id="nav-collapse" class="flex-column" is-nav>
-        <b-navbar-nav class="ml-auto navbar-nav-sm navbar-nav-dark flex-row ml-auto px-3">
+        <b-navbar-nav class="ml-auto navbar-nav-sm navbar-nav-dark ml-auto">
           <b-nav-item-dropdown right>
             <template slot="button-content">
-              Cameras <i class="fa fa-chevron-down fa-fw caret-sm text-danger"></i>
+              News & Events <i class="fa fa-chevron-down fa-fw caret-sm text-danger"></i>
             </template>
             <b-dropdown-item href="#">Dropdown 1</b-dropdown-item>
             <b-dropdown-item href="#">Dropdown 2</b-dropdown-item>
